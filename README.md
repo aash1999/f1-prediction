@@ -7,7 +7,7 @@ This project aims to develop a real-time Formula 1 prediction system utilizing t
 ## Team Members
 
 - Aakash Singh Sivaram
-- 
+- Abhinaysai Kamineni
 -
 
 ## Features
